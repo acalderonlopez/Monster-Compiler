@@ -18,12 +18,15 @@ And then, the algorithm was run over and **over and over again!**
 ![gif](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/gif.gif)
 
 <h5>Various outputs</h5>
+
 ![output1](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output2](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output11.png)
------|------
+----------|----------
 ![output3](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output4.png)|![output4](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output7.png)
-![output3](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output4](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output9.png)
+----------|----------
+![output5](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output6](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output9.png)
 
 <h5>Some possible uses for the MonsterCompiler made in Photoshop</h5>
+
 ![pillows](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/pillows.png)
 
 ![shirt](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/shirt.jpg)
