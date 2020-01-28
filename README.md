@@ -1,4 +1,4 @@
 # Monster Compiler
-<h1> a Wave Function Collapse experiment </h1>
+<h2> a Wave Function Collapse experiment </h2>
 
-Monster Compiler is a short visual experiment that utilizes the Wave Function Collapse algorithm to create 
+Monster Compiler is a short visual experiment that utilizes the Wave Function Collapse algorithm to create tiny, unique, blue monsters.
