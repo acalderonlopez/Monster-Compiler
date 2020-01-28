@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CD34C4FF-2B92-14CC-9D64-7F370E62EE15}|">
+  <MonoDevelop.Ide.ItemProperties.ProjectAssembly PreferredExecutionTarget="7a5fc525-11ca-4133-aa6f-3ebc64bc3fea" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WFCExample.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WFCExample.cs" Line="50" Column="54" />
+      <File FileName="Assets/Scripts/WFC/WaveFunctionCollapse.cs" Line="37" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WFC-Prueba2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WFC" expanded="True" />
+                <Node name="WFCExample.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
