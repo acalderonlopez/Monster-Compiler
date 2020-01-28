@@ -36,6 +36,6 @@ We decided to apply some of the tilemaps we got for some real purposes in Photos
 
 ![shirt](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/shirt.jpg)
 
-<h4>Foreword<h4>
+<h4>Foreword</h4>
   
 Thank you again to [Sunny Valley Studio](https://github.com/SunnyValleyStudio) for the Unity Port and the tutorial. It was very helpful!
