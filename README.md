@@ -17,6 +17,9 @@ And then, the algorithm was run over and **over and over again!**
 ![output1](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output2](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output11.png)
 -----|------
 ![output3](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output4.png)|![output4](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output7.png)
+-----|------
+![output3](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output4](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output9.png)
+
 
 ![pillows](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/pillows.png)
 
