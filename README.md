@@ -25,7 +25,6 @@ These are some of the creatures outputted by the WFC. These creepy looking meshe
 ![output1](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output2](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output11.png)
 ----------|----------
 ![output3](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output4.png)|![output4](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output7.png)
-----------|----------
 ![output5](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output1.png)|![output6](https://github.com/asfrattini/Monster-Compiler/blob/master/outputs/output9.png)
 
 <h4>Some possible uses for the MonsterCompiler made in Photoshop</h4>
