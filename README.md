@@ -1,5 +1,13 @@
 ![header_image](https://github.com/asfrattini/Monster-Compiler/blob/master/presentation.jpg)
 
+<h6> By:
+  [Anna Sofia Frattini]
+  (https://www.behance.net/Asfrattini)
+  & 
+  [Alejandro Calderón]
+  (https://www.behance.net/acalderonl) 
+</h6>
+
 Monster Compiler is a short visual experiment that utilizes the Wave Function Collapse (WFC) algorithm to create tiny, unique, blue monsters. This project started thanks to @SunnyValleyStudio 's [Unity port for the WFC](https://github.com/SunnyValleyStudio/WaveFunctionCollapseUnityTilemapTutorial) and his very useful [Youtube tutorials](https://youtu.be/ws4r3wLPNSE?list=PLcRSafycjWFeKAS40OdIvhL7j-vsgE3eg). 
 
 We decided to use this tool to create new outputs, particularly focused on the creation of **creepy, funny, modular creatures**. For this we designed our own tiles to use as an input Tilemap for the WFC in Unity.
